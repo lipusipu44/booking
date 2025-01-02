@@ -7,9 +7,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/anilpatro044/router/pkg/config"
-	"github.com/anilpatro044/router/pkg/handlers"
-	"github.com/anilpatro044/router/pkg/render"
+	"github.com/lipusipu44/booking/pkg/config"
+	"github.com/lipusipu44/booking/pkg/handlers"
+	"github.com/lipusipu44/booking/pkg/render"
 )
 
 const portNumber string=":8080"

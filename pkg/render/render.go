@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"path/filepath"
 
-	"github.com/anilpatro044/router/pkg/config"
-	"github.com/anilpatro044/router/pkg/models"
+	"github.com/lipusipu44/booking/pkg/config"
+	"github.com/lipusipu44/booking/pkg/models"
 )
 
 var app *config.AppConfig

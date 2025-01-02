@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/anilpatro044/router/pkg/config"
-	"github.com/anilpatro044/router/pkg/models"
-	"github.com/anilpatro044/router/pkg/render"
+	"github.com/lipusipu44/booking/pkg/config"
+	"github.com/lipusipu44/booking/pkg/models"
+	"github.com/lipusipu44/booking/pkg/render"
 )
 
 var Repo *Repository
